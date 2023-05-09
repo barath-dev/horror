@@ -1,0 +1,17 @@
+h1{
+}
+img{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
